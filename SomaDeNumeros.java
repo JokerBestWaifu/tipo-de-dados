@@ -14,9 +14,9 @@ public class SomaDeNumeros {
         
         soma = n1 + n2;
 
-        System.out.printf("A Area de um retangulo de base = " + n1);
-        System.out.printf("\n a altura é = " + n2);
-        System.out.printf("\n é = " + soma + "\n");
+        System.out.printf("A Soma de " + n1);
+        System.out.printf(" + " + n2);
+        System.out.printf(" é igual a " + soma + "\n");
 
     }
     
