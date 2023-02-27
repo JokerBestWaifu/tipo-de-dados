@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaDeRepeticao",
+            "request": "launch",
+            "mainClass": "EstruturaDeRepeticao",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaDeSelecao",
+            "request": "launch",
+            "mainClass": "EstruturaDeSelecao",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch InserirObjeto",
+            "request": "launch",
+            "mainClass": "InserirObjeto",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomaDeNumeros",
+            "request": "launch",
+            "mainClass": "SomaDeNumeros",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variaveis",
+            "request": "launch",
+            "mainClass": "Variaveis",
+            "projectName": "tipo-de-dados_bcee54cf"
+        }
+    ]
+}
