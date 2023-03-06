@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "imc",
+            "request": "launch",
+            "mainClass": "imc",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
             "name": "Salario",
             "request": "launch",
             "mainClass": "Salario",
