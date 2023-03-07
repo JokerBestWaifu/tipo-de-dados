@@ -4,7 +4,7 @@ public class Conversor {
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
-        int metro, centimetro;
+        double metro, centimetro;
 
         System.out.println("Informe o valor em metros para conversão: ");
         metro = input.nextInt();
