@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Conversor",
+            "request": "launch",
+            "mainClass": "Conversor",
+            "projectName": "tipo-de-dados_bcee54cf"
+        },
+        {
+            "type": "java",
             "name": "imc",
             "request": "launch",
             "mainClass": "imc",
